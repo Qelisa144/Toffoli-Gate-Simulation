@@ -1,8 +1,7 @@
 # Quantum Circuit Equivalence — Toffoli Gate using U3 Parameters
 
 **Made by:** Ana Elisa Franco
-**Date:** October,22nd 2025  
-
+**Date:** October,24nd 2025  
 
 
 ## Overview
